@@ -2,8 +2,7 @@
 
 This repository contains my **recreated version** of the official  
 **Cisco Networking Academy – CCNA: Introduction to Networks (ITN) Practice Skills Assessment (PTSA)**.  
-All configurations, subnetting, and documentation were fully rebuilt by me based on the original PTSA scenario  
-using **Cisco Packet Tracer**.
+All configurations, subnetting, and documentation were fully rebuilt by me based on the original PTSA scenario using **Cisco Packet Tracer**.
 
 ---
 
