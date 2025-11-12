@@ -65,29 +65,18 @@ Full configuration file: [`switch_configuration.md`](./switch_configuration.md)
 
 ---
 
-## 🧰 Tools Used
-- **Cisco Packet Tracer 8.x**
-- **Markdown** for configuration documentation  
-- **PDF report** with full addressing and setup  
-
----
-
 ## 🧾 Files Included
 
 | File | Description |
 |:--|:--|
-| `CCNA_PTSA_ITN_Configuration.pkt` | Cisco Packet Tracer topology |
+| `CCNA_PTSA_ITN_Configuration.pkt` | Cisco Packet Tracer report |
 | `CCNA_PTSA_ITN_Configuration.pdf` | Full configuration report |
 | `router_configuration.md` | Router setup and commands |
 | `switch_configuration.md` | Switch setup and commands |
-| `addressing_table.md` | IPv4 and IPv6 addressing summary |
+| `addressing_table.png` | IPv4 and IPv6 addressing summary |
+| `logical_topology.png` | Logical network topology diagram exported from Packet Tracer |
 
 ---
 
-## 👨‍💻 Author
-
-**Bartek [your GitHub username]**  
-📍 Kraków, Poland  
-🎓 Cisco Networking Academy Student  
 💬 _“Recreated the official CCNA ITN PTSA configuration entirely from scratch to demonstrate practical networking skills.”_
 
